@@ -1,0 +1,20 @@
+ {
+ "name": "email-sig-gen",
+ "version": "0.0.1",
+ "author": "Aswin <aswin@aswinteja.com>",
+ "description": "a simple signature generating script",
+ "contributors": [ 
+   {
+     "name": "Aswin",
+     "email": "aswin@aswinteja.com"
+   } 
+ ],
+
+ "dependencies" : {
+   "twit"   :  ">=1.0.0",
+   "canvas" : "*" 
+ },
+ "engines": {
+   "node": ">=0.10"
+ }
+}
